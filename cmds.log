@@ -1,0 +1,100 @@
+    1  git config --global user.email "tfyp.sa@gmail.com"
+    2  git config --global user.name "RonLy"
+    3  mkdir ~/.ssh
+    4  cd ~/.ssh && ssh-keygen
+    5  catid_rsa.pub
+    6  cat id_rsa.pub
+    7  cd ~/.ssh && ssh-keygen
+    8  mkdir ~/.ssh
+    9  cat id_rsa.pub
+   10  mkdir ~/.ssh && ssh-keygen
+   11  cd ~/.ssh && ssh-keygen
+   12  cat id_rsa.pub
+   13  git@github.com:LyRon2005/CS131.git
+   14  git@github.com:LyRon2005 / CS131.git
+   15  git@github.com: LyRon2005 / CS131.git
+   16  git remote add origin git@github.com: LyRon2005 / CS131.git
+   17  git remote add origin git@github.com:LyRon2005/CS131.git
+   18  g
+   19  git remote add origin git@github.com:LyRon2005/CS131.git
+   20  git config --global user.email "you@example.cm"
+   21  git remote add origin https://github.com/LyRon2005/CS131.git
+   22  git commit -m "first commit"
+   23  git remote add origin git@github.com:LyRon2005/CS131
+   24  git remote add origin https://github.com/LyRon2005/CS131.git
+   25  cd ~/.ssh && ssh-keygen
+   26  mkdir ~/.ssh
+   27  git remote
+   28  ls
+   29  cd
+   30  cd .ssh
+   31  rm key.txt
+   32  /ls
+   33  ls
+   34  cd
+   35  git remote add origin git@github.com:LyRon2005/CS131.git
+   36  ls
+   37  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   38  git init
+   39  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   40  ls
+   41  git remove
+   42  git remote
+   43  git remote add origin https://github.com/LyRon2005/CS131.git
+   44  cd
+   45  git remote add origin https://github.com/LyRon2005/CS131.git
+   46  git commit -m "New World"
+   47  git push --set-upstream origin master
+   48  git remote -v
+   49  rmdir .git
+   50  rmdir git@github.com:LyRon2005/BigChunka.git
+   51  rmdir
+   52  rmdir --help
+   53  git rm -r BigChunka
+   54  git rm -r BigChunka.git
+   55  git rm -r --cached myFolder
+   56  rm -d BigChunka
+   57  git commit -m
+   58  git commit -m "TestingBigChunka"
+   59  git push --set-upstream origin master
+   60  rm -r
+   61  git status
+   62  git remote add origin https://github.com/LyRon2005/CS131.git
+   63  git init
+   64  cd /mnt/scratch/SP24_CS131_Jyotika/ronsp24/.git/
+   65  rm .git
+   66  git status
+   67  git remote add origin https://github.com/LyRon2005/CS131.git
+   68  rmdir .git
+   69  ls
+   70  git remove BigChunk.git
+   71  git r- BigChunka.git
+   72  rm -fr
+   73  rm -fr .git
+   74  git status
+   75  git push --set-upstream origin master
+   76  git init
+   77  rm -fr .git
+   78  git push --set-upstream origin master
+   79  git remote add origin https://github.com/LyRon2005/CS131.git
+   80  rm origin
+   81  git remote remove origin
+   82  git remote add origin https://github.com/LyRon2005/CS131.git
+   83  git commit -m "Hi Testing"
+   84  git init
+   85  git commit -m "Hi Testing"
+   86  git push --set-upstream origin master
+   87  git push -u origin main
+   88  git remote add origin https://github.com/LyRon2005/CS131.git
+   89  git push -u origin main
+   90  git branch -M main
+   91  git remote add origin https://github.com/LyRon2005/CS131.git
+   92  git push -u origin main
+   93  wget www.github.com
+   94  git branch -M main
+   95  git remote add origin https://github.com/LyRon2005/CS131.git
+   96  git push -u origin main
+   97  mkdir Worksheet1
+   98  ls
+   99  git status
+  100  history > cmds.log
