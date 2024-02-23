@@ -1,0 +1,206 @@
+    1  git config --global user.email "tfyp.sa@gmail.com"
+    2  git config --global user.name "RonLy"
+    3  mkdir ~/.ssh
+    4  cd ~/.ssh && ssh-keygen
+    5  catid_rsa.pub
+    6  cat id_rsa.pub
+    7  cd ~/.ssh && ssh-keygen
+    8  mkdir ~/.ssh
+    9  cat id_rsa.pub
+   10  mkdir ~/.ssh && ssh-keygen
+   11  cd ~/.ssh && ssh-keygen
+   12  cat id_rsa.pub
+   13  git@github.com:LyRon2005/CS131.git
+   14  git@github.com:LyRon2005 / CS131.git
+   15  git@github.com: LyRon2005 / CS131.git
+   16  git remote add origin git@github.com: LyRon2005 / CS131.git
+   17  git remote add origin git@github.com:LyRon2005/CS131.git
+   18  g
+   19  git remote add origin git@github.com:LyRon2005/CS131.git
+   20  git config --global user.email "you@example.cm"
+   21  git remote add origin https://github.com/LyRon2005/CS131.git
+   22  git commit -m "first commit"
+   23  git remote add origin git@github.com:LyRon2005/CS131
+   24  git remote add origin https://github.com/LyRon2005/CS131.git
+   25  cd ~/.ssh && ssh-keygen
+   26  mkdir ~/.ssh
+   27  git remote
+   28  ls
+   29  cd
+   30  cd .ssh
+   31  rm key.txt
+   32  /ls
+   33  ls
+   34  cd
+   35  git remote add origin git@github.com:LyRon2005/CS131.git
+   36  ls
+   37  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   38  git init
+   39  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   40  ls
+   41  git remove
+   42  git remote
+   43  git remote add origin https://github.com/LyRon2005/CS131.git
+   44  cd
+   45  git remote add origin https://github.com/LyRon2005/CS131.git
+   46  git commit -m "New World"
+   47  git push --set-upstream origin master
+   48  git remote -v
+   49  rmdir .git
+   50  rmdir git@github.com:LyRon2005/BigChunka.git
+   51  rmdir
+   52  rmdir --help
+   53  git rm -r BigChunka
+   54  git rm -r BigChunka.git
+   55  git rm -r --cached myFolder
+   56  rm -d BigChunka
+   57  git commit -m
+   58  git commit -m "TestingBigChunka"
+   59  git push --set-upstream origin master
+   60  rm -r
+   61  git status
+   62  git remote add origin https://github.com/LyRon2005/CS131.git
+   63  git init
+   64  cd /mnt/scratch/SP24_CS131_Jyotika/ronsp24/.git/
+   65  rm .git
+   66  git status
+   67  git remote add origin https://github.com/LyRon2005/CS131.git
+   68  rmdir .git
+   69  ls
+   70  git remove BigChunk.git
+   71  git r- BigChunka.git
+   72  rm -fr
+   73  rm -fr .git
+   74  git status
+   75  git push --set-upstream origin master
+   76  git init
+   77  rm -fr .git
+   78  git push --set-upstream origin master
+   79  git remote add origin https://github.com/LyRon2005/CS131.git
+   80  rm origin
+   81  git remote remove origin
+   82  git remote add origin https://github.com/LyRon2005/CS131.git
+   83  git commit -m "Hi Testing"
+   84  git init
+   85  git commit -m "Hi Testing"
+   86  git push --set-upstream origin master
+   87  git push -u origin main
+   88  git remote add origin https://github.com/LyRon2005/CS131.git
+   89  git push -u origin main
+   90  git branch -M main
+   91  git remote add origin https://github.com/LyRon2005/CS131.git
+   92  git push -u origin main
+   93  wget www.github.com
+   94  git branch -M main
+   95  git remote add origin https://github.com/LyRon2005/CS131.git
+   96  git push -u origin main
+   97  mkdir Worksheet1
+   98  ls
+   99  git status
+  100  history > cmds.log
+  101  git status
+  102  git add.
+  103  git add
+  104  git add .
+  105  git status
+  106  git commit -m "Finish Worksheet1 CS131"
+  107  git push
+  108  git push --set-upstream origin master
+  109  git push origin main
+  110  git remote add origin git@github.com:LyRon2005/CS131.git
+  111  rm origin
+  112  git remote remove origin
+  113  git remote add origin git@github.com:LyRon2005/CS131.git
+  114  git status
+  115  git log
+  116  git push --set-upstream origin master
+  117  git add .
+  118  git status
+  119  git remote add
+  120  git show
+  121  git show-ref
+  122  mkdir Worksheet1
+  123  rm Worksheet1
+  124  rmdir Worksheet1
+  125  git remote remove origin
+  126  git status
+  127  git remote -v
+  128  git init
+  129  git remote add origin git@github.com:LyRon2005/CS131.git
+  130  git push -u origin main
+  131  git clone https://github.com/LyRon2005/CS131
+  132  ls
+  133  $ echo $SHELL
+  134  echo $SHELL
+  135  Is -latr
+  136  Is
+  137  Is -lat
+  138  ls -latr
+  139  ls
+  140  ls -lat
+  141  ls
+  142  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  143  ls
+  144  cat "Global Youtube Statistics.csv" 
+  145  cat "Global YouTube Statistics.csv"
+  146  grep -i "Music"
+  147  ls
+  148  grep -i "United States"
+  149  ls
+  150  grep "United States"
+  151  ls
+  152  grep "United States" Global YouTube Statistics.csv
+  153  grep "United States" 'Global YouTube Statistics.csv'
+  154  grep "Music" 'Global YouTube Statistics.csv'
+  155  wc 'Global YouTube Statistics.csv' -w "Music"
+  156  wc "Music" -w 'Global Youtube Statistics.csv' 
+  157  wc "Music" -w 'Global YouTube Statistics.csv'
+  158  wc -w "Music" 'Global YouTube Statistics.csv'
+  159  wc 'Global YouTube Statistics.csv' ^"Music"
+  160  grep "Music" 'Global YouTube Statistics.csv' | wc 'Global YouTube Statistics.csv'
+  161  grep "Music" 'Global YouTube Statistics.csv' | wc
+  162  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  163  cat > "counts.txt"
+  164  ls
+  165  cat "counts.txt"
+  166  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  167  >> "counts.txt
+  168  ls
+  169  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  170  >> "counts.txt"
+  171  cat "counts.txt"
+  172  grep "Music" 'Global YouTube Statistics.csv' | wc -lw >> "counts.txt"
+  173  cat "counts.txt"
+  174  cat >> "counts.txt"
+  175  >> "counts.txt"
+  176  cat "counts.txt"
+  177  cat << "counts.txt"
+The left number (238) is the line counts and the number to the right (830) is the word counts
+
+  178  cat "counts.txt"
+  179  cat << "counts.txt"
+The left number (238) is the line counts and the number to the right (830) is the word counts
+/quit
+\quit
+
+  180  cat "counts.txt"
+  181  cat << "counts.txt"
+The left number (238) is the line counts and the number to the right (830) is the word counts
+
+  182  cat "counts.txt"
+  183  cat << "counts.txt"
+The left number (238) is the line counts and the number to the right (830) is the word counts
+q!
+
+  184  cat "counts.txt"
+  185  cat << "counts.txt"
+The left number (238) is the line counts and the number to the right (830) is the word counts
+
+  186  cat "counts.txt"
+  187  "The left number (238) is the line counts and the number to the right (830) is the word counts" >> "counts.txt"
+  188  cat "counts.txt"
+  189  echo "The left number (238) is the line counts and the number to the right (830) is the word counts" >> "counts.txt"
+  190  cat "counts.txt"
+  191  vi "counts.txt" 
+  192  cat "counts.txt"
+  193  history > cmds.log

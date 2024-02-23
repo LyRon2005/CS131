@@ -1,0 +1,2 @@
+    238     830
+The left number (238) is the line counts and the number to the right (830) is the word counts
