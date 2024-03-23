@@ -3,6 +3,7 @@
     3  mkdir ~/.ssh
     4  cd ~/.ssh && ssh-keygen
     5  catid_rsa.pub
+<<<<<<< HEAD
     6  cat id_rsa.pub	
 
 
@@ -21,6 +22,9 @@
 
 
 
+=======
+    6  cat id_rsa.pub
+>>>>>>> origin/main
     7  cd ~/.ssh && ssh-keygen
     8  mkdir ~/.ssh
     9  cat id_rsa.pub
@@ -115,6 +119,7 @@
    98  ls
    99  git status
   100  history > cmds.log
+<<<<<<< HEAD
   101  git status
   102  git add.
   103  git add
@@ -832,3 +837,5 @@
   815  ps aux																		//Assignment2: Task 6
   816  vi Assignment2.txt
   817  history > cmds.log
+=======
+>>>>>>> origin/main
