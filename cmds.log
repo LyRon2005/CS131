@@ -1,0 +1,834 @@
+    1  git config --global user.email "tfyp.sa@gmail.com"
+    2  git config --global user.name "RonLy"
+    3  mkdir ~/.ssh
+    4  cd ~/.ssh && ssh-keygen
+    5  catid_rsa.pub
+    6  cat id_rsa.pub	
+
+
+
+
+
+
+
+															//Assignment2 Go to lines 788 and beyond for the commands I used
+
+
+
+
+
+
+
+
+
+    7  cd ~/.ssh && ssh-keygen
+    8  mkdir ~/.ssh
+    9  cat id_rsa.pub
+   10  mkdir ~/.ssh && ssh-keygen
+   11  cd ~/.ssh && ssh-keygen
+   12  cat id_rsa.pub
+   13  git@github.com:LyRon2005/CS131.git
+   14  git@github.com:LyRon2005 / CS131.git
+   15  git@github.com: LyRon2005 / CS131.git
+   16  git remote add origin git@github.com: LyRon2005 / CS131.git
+   17  git remote add origin git@github.com:LyRon2005/CS131.git
+   18  g
+   19  git remote add origin git@github.com:LyRon2005/CS131.git
+   20  git config --global user.email "you@example.cm"
+   21  git remote add origin https://github.com/LyRon2005/CS131.git
+   22  git commit -m "first commit"
+   23  git remote add origin git@github.com:LyRon2005/CS131
+   24  git remote add origin https://github.com/LyRon2005/CS131.git
+   25  cd ~/.ssh && ssh-keygen
+   26  mkdir ~/.ssh
+   27  git remote
+   28  ls
+   29  cd
+   30  cd .ssh
+   31  rm key.txt
+   32  /ls
+   33  ls
+   34  cd
+   35  git remote add origin git@github.com:LyRon2005/CS131.git
+   36  ls
+   37  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   38  git init
+   39  git remote add origin git@github.com:LyRon2005/BigChunka.git 
+   40  ls
+   41  git remove
+   42  git remote
+   43  git remote add origin https://github.com/LyRon2005/CS131.git
+   44  cd
+   45  git remote add origin https://github.com/LyRon2005/CS131.git
+   46  git commit -m "New World"
+   47  git push --set-upstream origin master
+   48  git remote -v
+   49  rmdir .git
+   50  rmdir git@github.com:LyRon2005/BigChunka.git
+   51  rmdir
+   52  rmdir --help
+   53  git rm -r BigChunka
+   54  git rm -r BigChunka.git
+   55  git rm -r --cached myFolder
+   56  rm -d BigChunka
+   57  git commit -m
+   58  git commit -m "TestingBigChunka"
+   59  git push --set-upstream origin master
+   60  rm -r
+   61  git status
+   62  git remote add origin https://github.com/LyRon2005/CS131.git
+   63  git init
+   64  cd /mnt/scratch/SP24_CS131_Jyotika/ronsp24/.git/
+   65  rm .git
+   66  git status
+   67  git remote add origin https://github.com/LyRon2005/CS131.git
+   68  rmdir .git
+   69  ls
+   70  git remove BigChunk.git
+   71  git r- BigChunka.git
+   72  rm -fr
+   73  rm -fr .git
+   74  git status
+   75  git push --set-upstream origin master
+   76  git init
+   77  rm -fr .git
+   78  git push --set-upstream origin master
+   79  git remote add origin https://github.com/LyRon2005/CS131.git
+   80  rm origin
+   81  git remote remove origin
+   82  git remote add origin https://github.com/LyRon2005/CS131.git
+   83  git commit -m "Hi Testing"
+   84  git init
+   85  git commit -m "Hi Testing"
+   86  git push --set-upstream origin master
+   87  git push -u origin main
+   88  git remote add origin https://github.com/LyRon2005/CS131.git
+   89  git push -u origin main
+   90  git branch -M main
+   91  git remote add origin https://github.com/LyRon2005/CS131.git
+   92  git push -u origin main
+   93  wget www.github.com
+   94  git branch -M main
+   95  git remote add origin https://github.com/LyRon2005/CS131.git
+   96  git push -u origin main
+   97  mkdir Worksheet1
+   98  ls
+   99  git status
+  100  history > cmds.log
+  101  git status
+  102  git add.
+  103  git add
+  104  git add .
+  105  git status
+  106  git commit -m "Finish Worksheet1 CS131"
+  107  git push
+  108  git push --set-upstream origin master
+  109  git push origin main
+  110  git remote add origin git@github.com:LyRon2005/CS131.git
+  111  rm origin
+  112  git remote remove origin
+  113  git remote add origin git@github.com:LyRon2005/CS131.git
+  114  git status
+  115  git log
+  116  git push --set-upstream origin master
+  117  git add .
+  118  git status
+  119  git remote add
+  120  git show
+  121  git show-ref
+  122  mkdir Worksheet1
+  123  rm Worksheet1
+  124  rmdir Worksheet1
+  125  git remote remove origin
+  126  git status
+  127  git remote -v
+  128  git init
+  129  git remote add origin git@github.com:LyRon2005/CS131.git
+  130  git push -u origin main
+  131  git clone https://github.com/LyRon2005/CS131
+  132  ls
+  133  $ echo $SHELL
+  134  echo $SHELL
+  135  Is -latr
+  136  Is
+  137  Is -lat
+  138  ls -latr
+  139  ls
+  140  ls -lat
+  141  ls
+  142  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  143  ls
+  144  cat "Global Youtube Statistics.csv" 
+  145  cat "Global YouTube Statistics.csv"
+  146  grep -i "Music"
+  147  ls
+  148  grep -i "United States"
+  149  ls
+  150  grep "United States"
+  151  ls
+  152  grep "United States" Global YouTube Statistics.csv
+  153  grep "United States" 'Global YouTube Statistics.csv'
+  154  grep "Music" 'Global YouTube Statistics.csv'
+  155  wc 'Global YouTube Statistics.csv' -w "Music"
+  156  wc "Music" -w 'Global Youtube Statistics.csv' 
+  157  wc "Music" -w 'Global YouTube Statistics.csv'
+  158  wc -w "Music" 'Global YouTube Statistics.csv'
+  159  wc 'Global YouTube Statistics.csv' ^"Music"
+  160  grep "Music" 'Global YouTube Statistics.csv' | wc 'Global YouTube Statistics.csv'
+  161  grep "Music" 'Global YouTube Statistics.csv' | wc
+  162  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  163  cat > "counts.txt"
+  164  ls
+  165  cat "counts.txt"
+  166  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  167  >> "counts.txt
+  168  ls
+  169  grep "Music" 'Global YouTube Statistics.csv' | wc -lw
+  170  >> "counts.txt"
+  171  cat "counts.txt"
+  172  grep "Music" 'Global YouTube Statistics.csv' | wc -lw >> "counts.txt"
+  173  cat "counts.txt"
+  174  cat >> "counts.txt"
+  175  >> "counts.txt"
+  176  cat "counts.txt"
+  177  cat << "counts.txt"
+  178  The left number (238) is the line counts and the number to the right (830) is the word counts
+  179  cat "counts.txt"
+  180  cat << "counts.txt"
+  181  The left number (238) is the line counts and the number to the right (830) is the word counts
+  182  /quit
+  183  \quit
+  184  cat "counts.txt"
+  185  cat << "counts.txt"
+  186  The left number (238) is the line counts and the number to the right (830) is the word counts
+  187  cat "counts.txt"
+  188  cat << "counts.txt"
+  189  The left number (238) is the line counts and the number to the right (830) is the word counts
+  190  q!
+  191  cat "counts.txt"
+  192  cat << "counts.txt"
+  193  The left number (238) is the line counts and the number to the right (830) is the word counts
+  194  cat "counts.txt"
+  195  "The left number (238) is the line counts and the number to the right (830) is the word counts" >> "counts.txt"
+  196  cat "counts.txt"
+  197  echo "The left number (238) is the line counts and the number to the right (830) is the word counts" >> "counts.txt"
+  198  cat "counts.txt"
+  199  vi "counts.txt" 
+  200  cat "counts.txt"
+  201  history > cmds.log
+  202  mkdir "Worksheet2" 
+  203  ls
+  204  cd "Worksheet2"
+  205  cd 
+  206  mv "counts.txt" 'Worksheet2'
+  207  ls
+  208  mv "cmds.log" 'Worksheet2'
+  209  cd Worksheet2
+  210  git add "counts.txt"
+  211  git add "cmds.log"
+  212  git status
+  213  git commit
+  214  git status
+  215  git push
+  216  git push origin master
+  217  ssh -T git@github.com
+  218  git push origin master
+  219  git push
+  220  ssh-add ~/.ssh/id_rsa
+  221  cd
+  222  git push origin master
+  223  cd Worksheet2
+  224  ssh -T git@github.com
+  225  git push origin master
+  226  git clone https://github.com/LyRon2005/CS131
+  227  ls
+  228  cd .git
+  229  ls
+  230  cd 
+  231  cd CS131
+  232  cd .git
+  233  cd CS131
+  234  mkdir Assignment1
+  235  cd .git
+  236  mv CS131 /
+  237  mv /home/.git/CS131 /home
+  238  cd
+  239  mv /home/.git/CS131 /home
+  240  cd .git
+  241  cd CS131
+  242  echo $Shell 
+  243  rmdir Assignment1
+  244  ls
+  245  mkdir Assignment1
+  246  echo $Shell
+  247  cd
+  248  echo $Shell
+  249  cd .git
+  250  cd CS131
+  251  echo "$Shell"
+  252  echo '$Shell'
+  253  cd .git
+  254  cd CS131
+  255  echo "$Shell"
+  256  echo $SHELL
+  257  echo "$SHELL"
+  258  cat Assignment1.txt
+  259  cat "Assignment1.txt"
+  260  cat > "Assignment1.txt"
+  261  cat >> "Assignment1.txt"
+  262  cat >> Assignment1.txt
+  263  ls
+  264  cat >> TestingMakingAFileTxt
+  265  ls
+  266  rm TestingMakingAFileTxt
+  267  ls
+  268  echo $HOME
+  269  id -u
+  270  groups
+  271  id -g
+  272  cd Assignment1
+  273  mkdir myDir
+  274  ls
+  275  chmod -wd myDir
+  276  chmod -w myDir
+  277  cd
+  278  cd .../Assignment1
+  279  cd ...\Assignment1
+  280  cd .git
+  281  cd CS131
+  282  cd Assignment1
+  283  cd myDir
+  284  ls
+  285  ls -l
+  286  cd
+  287  cd .git
+  288  cd CS131
+  289  cd Assignment1
+  290  mkdir myDir2
+  291  cat >> myFile.txt
+  292  mkdir myDir3
+  293  ls
+  294  mv myFile.txt myDir3
+  295  ls
+  296  cd myDir3
+  297  ls
+  298  cd Assignment1
+  299  cd .../Assignment1
+  300  cd
+  301  cd .git
+  302  cd CS131
+  303  cd Assignment1
+  304  ls
+  305  man free
+  306  free -m
+  307  ls
+  308  cat /etc/os-release
+  309  head /etc/os-release
+  310  ls
+  311  cd myDir3
+  312  ls
+  313  cd
+  314  ls
+  315  cd .git
+  316  ls
+  317  cd CS131
+  318  ls
+  319  mv Assignment1.txt Assignment1
+  320  ls
+  321  cd Assignment1
+  322  ls
+  323  history > cmds.log
+  324  ls
+  325  vi Assignment1.txt
+  326  vi cmds.log
+  327  ls
+  328  cd
+  329  cd .git
+  330  cd CS131
+  331  ls
+  332  git status
+  333  git add Assignment1
+  334  git status
+  335  git commit -m "Assignment 1 CS131 Complete"
+  336  git push Assignment1 origin main
+  337  git push origin main
+  338  cd .git
+  339  ls
+  340  cd CS131
+  341  ls
+  342  cd Assignment1
+  343  ls
+  344  echo 'pwd
+  345  echo 'pwd'
+  346  echo "pwd"
+  347  ks
+  348  ls
+  349  cat group
+  350  cat group | jyotika
+  351  cat group | ron
+  352  cat group | grep jyotika
+  353  cat group | grep ron
+  354  echo 'pwd'
+  355  echo hi
+  356  echo 'hi
+  357  echo "hi"
+  358  echo 'hi'
+  359  echo '$HOME'
+  360  echo $HOME
+  361  echo "$HOME"
+  362  echo pwd
+  363  a='abc'
+  364  b=${a}def
+  365  $a
+  366  a
+  367  ls
+  368  b=${a}
+  369  ls
+  370  .bashrc
+  371  .bash_profile
+  372  bashrc
+  373  vi .bashrc
+  374  source .bashrc
+  375  vi .bashrc
+  376  source .bashrc
+  377  111
+  378  III
+  379  iii
+  380  vi .bashrc
+  381  ll
+  382  ls -l
+  383  vi .bashrc
+  384  ls
+  385  cd CS131
+  386  ls
+  387  git status
+  388  ls
+  389  git add .
+  390  ls
+  391  git checkout master
+  392  git checkout main
+  393  git branch
+  394  git branch -m master main
+  395  git push -u origin main
+  396  git branch
+  397  ls
+  398  git status
+  399  git commit -m "testing"
+  400  git push origin main
+  401  git status
+  402  git checkout main
+  403  git pull --rebase origin main
+  404  git status
+  405  git add .
+  406  git status
+  407  ls
+  408  find /etc -type f > one.txt 2 > two.txt
+  409  ls
+  410  cd CS131
+  411  cd .git
+  412  cd CS131
+  413  ls
+  414  mkdir Assignment2
+  415  ls
+  416  cd Assignment2
+  417  find /etc -type f > one.txt2 > two.txt
+  418  cd .git
+  419  ls
+  420  cat one.txt2
+  421  cat two.txt
+  422  vi task1explanation.txt
+  423  ls
+  424  rm one.txt2 
+  425  rm two.txt
+  426  ls
+  427  find /etc -type f > one.txt 2> two.txt
+  428  ls
+  429  cat one.txt
+  430  cat two.txt
+  431  la
+  432  ls
+  433  vi fileobservations
+  434  ls
+  435  vi task1explanation.txt
+  436  rm task1explanation.txt
+  437  ls
+  438  vi Assignment2.txt
+  439  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  440  cut -d ',' -f 4,5 "Global Youtube Statistics.csv" | sort | uniq -c | sort -nr | head -n 3
+  441  ls
+  442  cut -d ',' -f 4,5 Global Youtube Statistics.cs" | sort | uniq -c | sort -nr | head -n 3
+  443  ls
+  444  ls Global Youtube Statistics.csv
+  445  ls "Global Youtube Statistics.csv"
+  446  ls
+  447  cat "Global Youtube Statistics.csv"
+  448  ls
+  449  rm 'Global Youtube Statistics.csv
+  450  rm 'Global Youtube Statistics.csv'
+  451  ls
+  452  rm "'Global Youtube Statistics.csv'"
+  453  ls
+  454  rm 'Global YouTube Statistics.csv'
+  455  ls
+  456  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  457  ls
+  458  cat 'Global YouTube Statistics.csv'
+  459  cut -d ',' -f 4,5 'Global YouTube Statistics.csv' > topcombinations.csv
+  460  sort topcombinations.csv > sortedcombinations.csv
+  461  uniq -c sortedcombinations.csv > counts.csv
+  462  sort -nr counts.csv > sortcounts.csv
+  463  head -n 3 sortcounts.csv
+  464  ls
+  465  rm counts.csv
+  466  rm topcombinations.csv
+  467  rm sortcounts.csv
+  468  rm sortedcombinations.csv
+  469  ls
+  470  rm 'Global YouTube Statistics.csv'
+  471  ls
+  472  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  473  cut -d ',' -f 4,5 ‘Global YouTube Statistics.csv’ | sort > combinations.csv 
+  474  ls
+  475  rm combinations.csv
+  476  ls
+  477  cut -d ',' -f 4,5 'Global YouTube Statistics.csv'
+  478  cut -d ',' -f 4,5 'Global YouTube Statistics.csv' > combinations.csv
+  479  ls
+  480  sort combinations.csv > sortedcomb.csv
+  481  uniq -c sortedcomb.csv > counts.csv
+  482  sort -nr counts.csv > sortedcount.csv
+  483  head -n 3 sortedcount.csv
+  484  cat 'Global YouTube Statistics.csv'
+  485  ls
+  486  cat 'Global YouTube Statistics.csv'
+  487  ls
+  488  head -n 3 sortedcount.csv
+  489  cd .git
+  490  cd CS131
+  491  cd Assignment2
+  492  ls
+  493  ps -u ronsp24
+  494  wq
+  495  ps -u ronsp24
+  496  cd .git
+  497  ls
+  498  cd CS131
+  499  cd Assignment2
+  500  ls
+  501  rm sortedcount.csv
+  502  rm combinations.csv
+  503  rm counts.csv
+  504  ls
+  505  rm sortedcomb.csv
+  506  cd .git
+  507  cd ..
+  508  la
+  509  ls
+  510  rm rm -r Assignment2
+  511  rm -r Assignment2
+  512  rm -r "Assignment2"
+  513  ls
+  514  mkdir Assignment2
+  515  cd Assignment2
+  516  touch Assignment2.txt
+  517  ls
+  518  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+  519  cat ‘Global YouTube Statistics.csv’
+  520  ls
+  521  cat 'Global YouTube Statistics.csv'
+  522  cut -d ',' -f 20, 21, 22 'Global YouTube Statistics.csv'
+  523  cut -d ',' -f 20-22 'Global YouTube Statistics.csv'
+  524  cut -d ',' -f 20-21 'Global YouTube Statistics.csv'
+  525  cut -d ',' -f 20-21 'Global YouTube Statistics.csv' > dates.csv
+  526  ls
+  527  rm dates.csv
+  528  cut -d ',' -f 20-21 'Global YouTube Statistics.csv' > dates.csv
+  529  sort dates.csv > sorteddates.csv
+  530  cat sorteddates.csv
+  531  uniq -c sorteddates.csv > counts.csv
+  532  cat counts.csv
+  533  sort -nr counts.csv > sortedcounts.csv
+  534  cat sortedcounts.csv
+  535  ps -u LyRon2005
+  536  ps -u ronsp24
+  537  find .etc -type f > one.txt 2> two.txt
+  538  ls
+  539  vi Assignment2.txt
+  540  cat one.txt
+  541  ls one.txt
+  542  ls
+  543  find /etc -type f > one.txt 2> two.txt
+  544  cat one.txt
+  545  cat two.txt
+  546  vi Assignment2.tzt
+  547  ls
+  548  rm Assignment2.tzt
+  549  ls
+  550  vi Assignment2.txt
+  551  vi file.txt
+  552  rm file.txt
+  553  vi file.txt
+  554  vi Assignment2.txt
+  555  ps -eo pid,comm | grep -E '1|systemd'
+  556  ps -C systemd
+  557  pgrep -f /sbin/init
+  558  ls
+  559  ps --pid=1 -o cmd, comm
+  560  ps -C init
+  561  ps -C systemd
+  562  vi Assignment2.txt
+  563  ps aux
+  564  vi Assignment2.txt
+  565  ls
+  566  history > cmds.log
+  567  ls
+  568  vi cmds.log
+  569  wq
+  570  git init
+  571  git config --global init.defaultBranch main
+  572  git init
+  573  ls
+  574  git init
+  575  git branch -m master main
+  576  git commit -m "Assignment2 Completed"
+  577  git add .
+  578  git commit -m "Assignment2 Completed"
+  579  ls
+  580  git push origin main
+  581  git status
+  582  git init
+  583  git add .
+  584  git sttus
+  585  git status
+  586  ls
+  587  git add Assignment2
+  588  ls
+  589  git add .
+  590  git status
+  591  git add .
+  592  git commit -m "Assignment 2 Completed"
+  593  git status
+  594  cd .
+  595  cd ..
+  596  cd .git
+  597  cd CS131
+  598  ls
+  599  cd CS131
+  600  ls
+  601  cd ..
+  602  cd .git
+  603  cd CS131
+  604  ls
+  605  cd .git
+  606  cd CS131
+  607  cd Assignment2
+  608  ls
+  609  git init
+  610  git status
+  611  git add .
+  612  git commit -m "Assignment 2 Completed"
+  613  ls
+  614  git config --global init.defaultBranch main
+  615  git status
+  616  git add .
+  617  git status
+  618  git init
+  619  git add
+  620  git add Assignment2
+  621  cd ..
+  622  git add Assignment2
+  623  git status
+  624  ls
+  625  git init
+  626  git status
+  627  git commit -m Assignment2 completed
+  628  git commit -m "Assignment2 completed"
+  629  git push origin main
+  630  cd Assignment2
+  631  git status
+  632  git add .
+  633  git status
+  634  git commit -m "Assignment 2 Completed
+  635  git commit -m "Assignment 2 Completed"
+  636  git init
+  637  git add .
+  638  git status
+  639  git init
+  640  cd .git
+  641  cd CS131
+  642  cd Assignment2
+  643  ls
+  644  git add .
+  645  git commit
+  646  git add .
+  647  git add --all
+  648  git status
+  649  cat .gitignore
+  650  git add --force
+  651  git init
+  652  git config --global --unset init.defaultBranch
+  653  git status
+  654  git init
+  655  rm -rf .git
+  656  git status
+  657  git init
+  658  ls
+  659  git add .
+  660  git status
+  661  git commit -m "Assignment 2 Completed" 
+  662  git push origin main
+  663  git status
+  664  git init
+  665  rm -rf .git
+  666  git init
+  667  rm -rf .git
+  668  git push --set-upstream origin main
+  669  git init
+  670  git status
+  671  git add .
+  672  git status
+  673  git commit -m "Assignment 2 Completed"
+  674  git push origin main
+  675  git -fr .git
+  676  git -rf .git
+  677  rm -rf .git
+  678  git push --set-upstream origin main
+  679  git remote add origin https://github.com/LyRon2005/CS131.git
+  680  rm origin
+  681  git init
+  682  git config --global init.defaultBranch main
+  683  git status
+  684  git init
+  685  git add .
+  686  git status
+  687  git commi -m "Assignment 2 Completed"
+  688  git commit -m "Assignment 2 Completed"
+  689  git status
+  690  git init
+  691  cd ..
+  692  git status
+  693  cd ..
+  694  git init
+  695  git status
+  696  cd CS 131
+  697  cd CS131
+  698  git status
+  699  git init
+  700  rm -rf .git
+  701  git init
+  702  cd .git
+  703  cd CS131
+  704  cd Assignment2
+  705  ls
+  706  git add .
+  707  git status
+  708  git add .
+  709  git status
+  710  cd ..
+  711  git init
+  712  cd CS131
+  713  cd Assignment2
+  714  ls
+  715  git status
+  716  git add .
+  717  git status
+  718  git init
+  719  git status
+  720  git add .
+  721  git status
+  722  cd
+  723  rm -fr .git
+  724  git status
+  725  git push --set-upstream origin master
+  726  git remote add origin https://github.com/LyRon2005/CS131.git
+  727  git init
+  728  cd .git
+  729  cd CS131
+  730  ls
+  731  cd .git
+  732  cd CS131
+  733  ls
+  734  git init
+  735  cd CS131
+  736  cd .git
+  737  ls
+  738  cd CS131
+  739  ls
+  740  git init
+  741  ls
+  742  git remote add origin https://github.com/LyRon2005/CS131.git
+  743  ls
+  744  git push -u origin main
+  745  ls
+  746  git status
+  747  git init
+  748  git commit -m "hi testing"
+  749  ls
+  750  rm origin
+  751  git remote remove origin
+  752  git remote add origin https://github.com/LyRon2005/CS131.git
+  753  git commit -m "hi testing"
+  754  git push -u origin main
+  755  git branch -M main
+  756  git remote add origin https://github.com/LyRon2005/CS131.git
+  757  git push -u origin main
+  758  wget www.github.com
+  759  git branch -M main
+  760  git remote add origin https://github.com/LyRon2005/CS131.git
+  761  git push -u origin main
+  762  ls
+  763  cd CS131
+  764  ls
+  765  git restore
+  766  git restore .
+  767  ls
+  768  git status
+  769  cd Assignment2
+  770  ls
+  771  cd
+  772  rm Assignment2.txt
+  773  ls
+  774  cd Assignment2
+  775  touch Assignment.txt
+  776  ls
+  777  rm 'Global YouTube Statistics.csv'
+  778  rm one.txt
+  779  rm two.txt
+  780  ls
+  781  cd Assignment2
+  782  git init
+  783  git status
+  784  ls
+  785  rm Assignment.txt
+  786  touch Assignment.txt
+  787  ls
+  788  find /etc -type f > one.txt 2> two.txt														//Assignment2: Task 1
+  789  ls	
+  790  cat one.txt																	//Assignment2: Task 1
+  791  cat two.txt																	//Assignment2: Task 1
+  792  ls
+  793  rm Assignment.txt
+  794  touch Assignment2.tzt
+  795  rm Assignment2.tzt
+  796  touch Assignment2.txt
+  797  ls
+  798  vi Assignment2.txt
+  799  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv						//Assignment2: Task 2
+  800  ls
+  801* cut -d ',' -f 20, 21 '																//Assignment2: Task 2
+  802  cat 'Global YouTube Statistics.csv'								
+  803  cut -d ',' -f 20,21 'Global YouTube Statistics.csv
+  804  cut -d ',' -f 20,21 'Global YouTube Statistics.csv' > cut.csv											//Assignment2: Task 2
+  805  sort cut.csv > sortcut.csv															//Assignment2: Task 2	
+  806  uniq -c sortcut.csv > counts.csv															//Assignment2: Task 2
+  807  sort -nr counts.csv > sortcounts.csv														//Assignment2: Task 2
+  808  head -n 3 sortcounts.csv																//Assignment2: Task 2
+  809  vi Assignment2.txt
+  810  ps -u ronsp24																	//Assignment2: Task 3
+  811  vi file.txt																	//Assignment2: Task 4
+  812  vi Assignment2.txt
+  813  ps -C systemd																	//Assignment2: Task 5
+  814  vi Assignment2.txt
+  815  ps aux																		//Assignment2: Task 6
+  816  vi Assignment2.txt
+  817  history > cmds.log

@@ -1,0 +1,43 @@
+Task 1: Executing the command, /etc -type f > one.txt 2> two.txt will search for regular files in the /etc directory. The -type f is what makes the command specifically search for regular files. The > will then direct the output of the search into a file named one.txt. The 2> will direct the errors into a file named two.txt. After using cat on both one.txt and two.txt, one.txt lists all of the files in the /etc directory while two.txt shows all of the errors.
+
+Task 2: The top 3 [Month, Year] with the most number of Youtube channels created are:
+     15 2006,Mar
+     13 2014,Jul
+     12 2014,Aug
+The commands I used to get this was cut, sort, and uniq commands. First, I used cat command to view the contents of the file downloaded and then searched for the columns that contained the year and months. I did found it was columns 20 and 21, so I did cut -d ',' -f 20, 21 'Global Youtube Statistics.csv' > cut.csv. This command will output columns 20 and 21, -d ',' was the delimited which used the ',' to seperate the columns. Then it directed the output into a file named cut.csv. After that, I sorted cut.csv and directed the output of that file into sortcut.csv. Then I executed uniq -c and directed the output into counts.csv, the command will count the occurrences of every combination. Afterwards, I used sort -nr which will aort the file numerically and in reverse. I directed the output of the command into sortcounts.csv. Finally, I used head -n 3 sortcounts.csv to find the top 3 combinations in which the most Youtube channels were created. 
+
+Task 3: The command I used was ps -u ronsp24. ps -u <user_name> will list all the processes that are owned by the specific username. Output:
+    PID TTY          TIME CMD
+1067934 ?        00:00:01 systemd
+1067935 ?        00:00:00 (sd-pam)
+1067941 ?        00:00:00 sshd
+1067942 pts/1    00:00:00 bash
+1076367 pts/1    00:00:00 ps
+
+Task 4b: Output:
+    PID TTY          TIME CMD
+1067934 ?        00:00:01 systemd
+1067935 ?        00:00:00 (sd-pam)
+1067941 ?        00:00:00 sshd
+1067942 pts/1    00:00:00 bash
+1076539 ?        00:00:00 sshd
+1076540 pts/2    00:00:00 bash
+1076625 pts/1    00:00:00 vim
+1076658 pts/2    00:00:00 ps
+I noticed that there are 2 sshd and bash as there are 2 terminals running, and that there is also another process named "vim" whose PID is 1076658. 
+
+Task 4d: Output: 
+    PID TTY          TIME CMD
+1067934 ?        00:00:01 systemd
+1067935 ?        00:00:00 (sd-pam)
+1067941 ?        00:00:00 sshd
+1067942 pts/1    00:00:00 bash
+1076539 ?        00:00:00 sshd
+1076540 pts/2    00:00:00 bash
+1076877 pts/2    00:00:00 ps
+I noticed that the "vim" process isn't there anymore and that is because I exited the vi command mode. 
+
+Task 5: The init process is the first process which is why its PID is 1. The init process allows for the starting and processing of other processes. To find the process id for the init process, I used ps -C systemd
+
+Task 6: The command ps aux, will list all of the running proccesses in the system. The ps command represents process status, the a,u, and x, will specify all processes, specify information on each process, and specifies processes without a controlling terminal. 
+
