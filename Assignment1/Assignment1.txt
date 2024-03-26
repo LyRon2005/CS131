@@ -1,0 +1,20 @@
+Question 1: Command used was “mkdir Assignment1” to make the directory, then I used “cat >> Assignment1.txt” to make the txt file that contains the commands I used.
+
+Question 2: I used “echo $SHELL” using the global variable to echo my current Shell, then I used “echo $HOME” to echo my home directory path
+	echo $SHELL output: “/bin/bash”
+	echo $HOME output: “/mnt/scratch/SP24_CS131_Jyotika/ronsp24”
+
+Question 3: I used “id -u” to check what my UID is and I used “groups” to check what group I belong to. 
+	id -u output: 1222
+	groups output: ronsp24 S78
+
+Question 4: I am allowed to “cd” “ls” and “ls -l” in the temp directory, however I can’t creat files under it due to removing my “write” permission from myself
+
+Question 6: 
+              total        used        free      shared  buff/cache   available
+Mem:          71367       32468       19790        3514       19108       33926
+Swap:          4119           0        4119
+
+Question 9: The operating system version is 8.6 (Ootpa) and the file under /etc/ is /etc/os-release
+
+Question 10: Read permission

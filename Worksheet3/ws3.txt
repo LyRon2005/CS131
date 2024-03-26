@@ -1,0 +1,10 @@
+Ron Ly
+
+Task 1:
+United States,9200000		// US's Highest Monthly Earner
+United Kingdom,2000000		//UK's Highest Monthly Earner
+India,9000000			//India's Highest Monthly Earner
+Task 2:
+WWE,96000000,Sports					//Biggest Youtube Channel in Sports Category
+MrBeast,166000000,Entertainment				//Biggest Youtube Channel in Entertainment Category
+Cocomelon - Nursery Rhymes,162000000,Education		//Biggest Youtube Channel in Education Category
