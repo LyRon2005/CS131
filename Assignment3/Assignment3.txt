@@ -1,0 +1,156 @@
+Task 1:
+Command(s) used to solve: 
+wc -l last.fake
+grep 'sp24' last.fake > lastsp24.fake
+sed -i '/sp24/d' last.fake
+wc -l last.fake
+Output: 
+507 last.fake - number of lines in last.fake before filtering
+The answer for part 2 of task 1 are the commands provided above and in the file named "lastsp24.fake"
+29 last.fake - number of lines in last.fake after filtering
+
+Task 2:
+Command(s) used to solve:
+grep 'Sun' lastsp24.fake > users_sun.fake
+awk -F ' ' '{print $1}' users_sun.fake > users_logged_sun.fake
+echo "The list of people who worked on Sunday are:" > list_sun.fake
+sort users_logged_sun.fake | uniq >> list_sun.fake
+echo "Kudos to these people for putting in the work" >> list_sun.fake
+Output:
+The list of people who worked on Sunday are:
+aayushsp24
+akashsp24
+billysp24
+breannasp24
+briansp24
+chih-kuosp24
+fnusp24
+gavinsp24
+megansp24
+michellesp24
+swansp24
+xuebosp24
+Kudos to these people for putting in the work
+
+Task 3:
+Command(s) used to solve: 
+awk '$7 ~ /^(23|00|01|02|03|04:00):/' lastsp24.fake > night.fake
+awk '{print $1}' night.fake > sorted_night.fake
+echo "Night Owls List:" > list_night.fake
+sort sorted_night.fake | uniq >> list_night.fake
+echo "Night Owls are dope. Please ensure you get enough sleep though." >> list_night.fake
+Output: 
+Night Owls List:
+aarushisp24
+aayushsp24
+ajaysp24
+akashsp24
+albertsp24
+alexsp24
+amansp24
+athishsp24
+ayesp24
+billysp24
+brandonsp24
+breannasp24
+daosp24
+davidsp24
+diyasp24
+dylansp24
+edisonsp24
+gavinsp24
+georgesp24
+gradysp24
+gursimransp24
+jadonsp24
+jaydevsp24
+jimmysp24
+justinsp24
+khushisp24
+kobesp24
+madhavsp24
+manassp24
+matthewsp24
+maysp24
+megansp24
+nicolesp24
+robertosp24
+ronsp24
+sandrasp24
+sangsp24
+sheelsp24
+sunidhisp24
+tanishasp24
+tylermsp24
+tylersp24
+vaikuntamsp24
+xiaokesp24
+xuebosp24
+yelinsp24
+zakisp24
+Night Owls are dope. Please ensure you get enough sleep though.
+
+Task 4:
+Command(s) used to solve:
+awk '$7 ~ /^(05|06|07|08|09:00):/' lastsp24.fake > early.fake
+awk '{print $1}' early.fake > sorted_early.fake
+echo "Early Birds List:" > list_early.fake
+sort sorted_early.fake | uniq >> list_early.fake
+echo "Early Birds are dope. Pleasure ensure you get enough sleep though." >> list_early.fake
+Output:
+Early Birds List:
+aayushsp24
+ajaysp24
+ericsp24
+gradysp24
+ronsp24
+Early Birds are dope. Pleasure ensure you get enough sleep though.
+
+Task 5:
+Command(s) used to solve:
+awk '$1 ~ /^t/' lastsp24.fake > list_t.fake
+awk '{print $1}' list_t.fake > sorted_t.fake
+echo "Usernames that start with "t":" > list_t_username.fake
+sort sorted_t.fake | uniq >> list_t_username.fake
+Output:
+Usernames that start with t:
+taliasp24
+tanishasp24
+tylermsp24
+tylersp24
+
+Task 6:
+Command(s) used to solve:
+awk -F: '$1 ~ /^a/ && $3 % 2 == 0' passwd.fake > list_passwd_a.fake
+Output:
+angie23fa:x:1004:1004::/mnt/scratch/angie23fa:/bin/bash
+areebah23fa:x:1016:1016::/mnt/scratch/areebah23fa:/bin/bash
+apple23fa:x:1018:1018::/mnt/scratch/apple23fa:/bin/bash
+ajay23fa:x:1030:1030::/mnt/scratch/ajay23fa:/bin/bash
+alan23fa:x:1032:1032::/mnt/scratch/alan23fa:/bin/bash
+amreenf23:x:1150:1150::/mnt/scratch/FA23_CS131_Ashish/amreenf23:/bin/bash
+acesp24:x:1174:1174::/mnt/scratch/FA23_CS131_Ashish/acesp24:/bin/bash
+akashsp24:x:1190:1190::/mnt/scratch/FA23_CS131_Ashish/akashsp24:/bin/bash
+ayesp24:x:1200:1200::/mnt/scratch/SP24_CS131_Jyotika/ayesp24:/bin/bash
+alexsp24:x:1202:1202::/mnt/scratch/SP24_CS131_Jyotika/alexsp24:/bin/bash
+aayushsp24:x:1204:1204::/mnt/scratch/SP24_CS131_Jyotika/aayushsp24:/bin/bash
+ajaysp24:x:1230:1230::/mnt/scratch/SP24_CS131_Jyotika/ajaysp24:/bin/bash
+ashish:x:1240:1240::/mnt/scratch/FA23_CS131_Ashish/ashish:/bin/bash
+amansp24:x:1242:1242::/mnt/scratch/SP24_CS131_Jyotika/amansp24:/bin/bash
+
+Task 7:
+Command(s) used to solve:
+sed 's/[a-zA-Z0-9[:space:]]//g' passwd.fake | sort -u > distinct_passwd.fake
+Output:
+-::::-:/://
+-:::::///-://
+-:::::///__/-://
+-:::::/://
+::::-:///://
+:::::///://
+:::::///_/://
+:::::///__/://
+::::://://
+:::::/://
+
+Assignment 3 Done.
