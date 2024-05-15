@@ -1,0 +1,11 @@
+Results after wc'ing the Worksheet5/US/{category}.txt command
+73   232 14523 Worksheet5_US_Music.txt
+68   309 14775 Worksheet5_US_Entertainment.txt
+26   69 5153 Worksheet5_US_Gaming.txt
+22   88 4410 Worksheet5_US_Comedy.txt
+
+Line count:
+Music = 73
+Entertainment = 68
+Gaming = 26
+Comedy = 22
