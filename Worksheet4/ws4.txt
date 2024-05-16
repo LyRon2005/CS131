@@ -1,0 +1,19 @@
+Worksheet 4 - Ron Ly - Reuploaded
+Task 1:
+'l' output:
+total 196
+-rw-rw-r-- 1 ronsp24 ronsp24 200279 May 15 19:33 Global YouTube Statistics.csv
+-rw-rw-r-- 1 ronsp24 ronsp24      0 May 15 19:38 ws4.txt
+
+'w' output: 
+     3      22     146
+
+Task 2:
+Mean of India's subscribers: 2.56583e+07 
+Mean of United States' subscribers: 2.34169e+07
+
+Task 3:
+Output of greetings.txt after performing the 4 sed commands:
+Greetings, John Smith!(edited)
+Hi, Michael Johnson!(edited)
+Hi, Emily Davis!(edited)

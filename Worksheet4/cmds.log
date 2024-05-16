@@ -1,0 +1,1022 @@
+									//Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+  
+
+
+
+
+149  cd Worksheet4
+  150  git init
+  151  git push origin main
+  152  cd
+  153  git remote -v
+  154  cd CS131
+  155  git remote -v
+  156  cd Worksheet4
+  157  git remote -v
+  158  ls
+  159  cd
+  160  cd CS131
+  161  mv Worksheet4/greetings.txt CS131
+  162  ls
+  163  cat CS131
+  164  mv CS131 greetings.txt
+  165  ls
+  166  rm counts.csv
+  167  rm one.txt
+  168  rm sortcounts.csv
+  169  rm two.txt
+  170  ls
+  171  rm cut.csv
+  172  rm sortcut.csv
+  173  ls
+  174  mv Worksheet4/ws4.txt
+  175  mv Worksheet4/ws4.txt ./
+  176  ls
+  177  cat ws4.txt
+  178  cd Worksheet4
+  179  ls
+  180  cd
+  181  cd CS131
+  182  mv Worksheet4/ws4_means.txt ./
+  183  mv Worksheet4/Subscribers ./
+  184  ls
+  185  rm Worksheet4
+  186  rmdir Worksheet4
+  187  cd Worksheet4
+  188  ls
+  189  cd
+  190  cd C131
+  191  cd CS131
+  192  rm -rf Worksheet4
+  193  ls
+  194  mkdir Worksheet4
+  195  mv greetings.txt Worksheet4
+  196  mv ws4.txt Worksheet4
+  197  mv ws4_means.txt Workheet4
+  198  mv Subscribers Worksheet4
+  199  ls
+  200  mv Workheet4 ws4_means.txt
+  201  mv ws4_means.txt Worksheet4
+  202  ls
+  203  cd Worksheet4
+  204  ls
+  205  cat ws4.txt
+  206  cat greetings.txt
+  207  cd
+  208  cd C131
+  209  cd CS131
+  210  ls
+  211  git status
+  212  git add .
+  213  git status
+  214  ls
+  215  git Worksheet4
+  216  cd Worksheet4
+  217  ls
+  218  git init
+  219  d
+  220  cd CS131
+  221  cd
+  222  cd CS131
+  223  ls
+  224  git status
+  225  git add .
+  226  git status
+  227  git add .
+  228  cd Worksheet4
+  229  cd
+  230  cd CS131
+  231  git add Worksheet4
+  232  git status
+  233  cd Worksheet4
+  234  git add .
+  235  git status
+  236  cd
+  237  cd CS131
+  238  ls
+  239  git status
+  240  cd Worksheet4
+  241  cd
+  242  cd CS131
+  243  cd Worksheet4
+  244  ls
+  245  git status
+  246  git commit -m "Worksheet4 Completed"
+  247  ls
+  248  git push origin main
+  249  cd
+  250  cd CS131
+  251  ls
+  252  git status
+  253  git add .
+  254  git status
+  255  git commit -m "Worksheet4 Completed"
+  256  git push origin main
+  257  git status
+  258  cd Worksheet4
+  259  git add .
+  260  git status
+  261  got commit -m "Worksheet 4 Completed"
+  262  git commit -m "Worksheet 4 Completed"
+  263  git push origin main
+  264  ls
+  265  git pull --rebase origin main
+  266  git init
+  267  cd
+  268  cd CS131
+  269  git remote add origin git@github.com:LyRon2005/CS131.git
+  270  git pull --rebase origin main
+  271  cd Worksheet4
+  272  git remote add origin git@github.com:LyRon2005/CS131.git
+  273  git status
+  274  git pull --rebase origin main
+  275  git push origin main
+  276  cd CS131
+  277  ls
+  278  mkdir CS131ClassProject2
+  279  ls
+  280  cd CS131ClassProject2
+  281  ls
+  282  touch GroupMemberNames
+  283  ls
+  284  rm GroupMemberNames
+  285  touch GroupMemberNames.txt
+  286  vi GroupMemberNames.txt
+  287  cat GroupMemberNames.txt
+  288  git init
+  289  git add global_jobs_salaries_2024.csv
+  290  git add /Users/ronly/Downloads/global_jobs_salaries_2024.csv 
+  291  git add git add /Users/ronly/Downloads/global_jobs_salaries_2024.csv
+  292  git add /Users/ronly/Downloads/global_jobs_salaries_2024.csv 
+  293  C:// /Users/ronly/Downloads/global_jobs_salaries_2024.csv
+  294  git add /Users/ronly/Downloads/global_jobs_salaries_2024.csv
+  295  /Users/ronly/Downloads/global_jobs_salaries_2024.csv
+  296  wget /Users/ronly/Downloads/global_jobs_salaries_2024.csv
+  297  cd
+  298  ls
+  299  cd CS131
+  300  ls
+  301  cd CS131ClassProject2
+  302  ls
+  303  git add .
+  304  git status
+  305  ls
+  306  git commit -m "Data Set Selection and Team Consolidation"
+  307  git push origin main
+  308  remote add origin git@github.com:LyRon2005/CS131.git
+  309  git remote add origin git@github.com:LyRon2005/CS131.git
+  310  git push origin main
+  311  git pull 
+  312  git push origin main
+  313  git pull main
+  314  git push origin main
+  315  git push -f
+  316  git push --set-upstream origin main
+  317  git push -f origin main
+  318  cd
+  319  cd CS131
+  320  ls
+  321  cd Assignment2
+  322  ls
+  323  cd
+  324  ls
+  325  cd
+  326  cd CS131
+  327  ls
+  328  git add .
+  329  ls
+  330  git status
+  331  git commit - m "Updated Repo"
+  332  git commit -m "Updated Repo"
+  333  git push origin main
+  334  git push -f origin main
+  335  git add .
+  336  git status
+  337  git push origin main
+  338  ls
+  339  cd CS131ClassProject2
+  340  ls
+  341  git add .
+  342  git status
+  343  cd
+  344  cd CS131
+  345  rm -rf CS131ClassProject2
+  346  ls
+  347  mkdir CS131ClassProject2
+  348  cd CS131ClassProject
+  349  ls
+  350  cd CS131ClassProject2
+  351  touch MemberNames.txt
+  352  vi MemberNames.txt
+  353  ls
+  354  cd
+  355  cd CS131
+  356  git add .
+  357  git status
+  358  git add .
+  359  ls
+  360  git push origin main
+  361  git rm --cached CS1331ClassProject2
+  362  git rm --cached CS131ClassProject2
+  363  ls
+  364  git add CS131ClassProject2
+  365  git status
+  366  git commit -m "Class Project Group 2"
+  367  git push origin main
+  368  ls
+  369  cd Worksheet4
+  370  ls
+  371  cd Worksheet4
+  372  ls
+  373  cd
+  374  cd CS131
+  375  cd Worksheet4
+  376  ls
+  377  rm -rf Assignment1
+  378  ls
+  379  rm -rf Assignment2
+  380  rm Assignment2.txt
+  381  rm -rf Worksheet2
+  382  rm -rf Worksheet3
+  383  rm -rf Worksheet4
+  384  ls
+  385  cd
+  386  cd CS131
+  387  ls
+  388  cd Worksheet4
+  389  cat wst.txt
+  390  ls
+  391  cat ws4.txt
+  392  d
+  393  cd
+  394  cd CS131
+  395  ls
+  396  git rm --cached Worksheet4
+  397  ls
+  398  git add Worksheet4
+  399  git rm --cached Worksheet4
+  400  ls
+  401  cd Worksheet4
+  402  ls
+  403  cd CS131
+  404  cd
+  405  cd CS131
+  406  git add Worksheet4
+  407  git rm --cached Worksheet4
+  408  git add .
+  409  git rm --cached Worksheet4
+  410  git status
+  411  git add Worksheet4/
+  412  git push origin main
+  413  git pull
+  414  git status
+  415  git add
+  416  git add .
+  417  git status
+  418  git commit -a
+  419  ls
+  420  git add Worksheet4
+  421  git status
+  422  git add .
+  423  git status
+  424  git -C MyApp/Worksheet4 switch --detach $hash
+  425  git -C CS131/Worksheet4 switch --detach $hash
+  426  ls
+  427  git status
+  428  git add .
+  429  git status
+  430  git commit -m "Worksheet4"
+  431  git add files
+  432  git push origin main
+  433  cd Worksheet4
+  434  git status
+  435  git add .
+  436  git status
+  437  cd
+  438  cd CS131
+  439  git add .
+  440  git status
+  441  git push origin main
+  442  cd Worksheet4
+  443  git status
+  444  git commit -m "Updated Worksheet4"
+  445  git push origin main
+  446  git fetch origin main
+  447  git merge origin main
+  448  git status
+  449  git pull origin master
+  450  git pull origin main
+  451  git add .
+  452  git status
+  453  ls
+  454  cd
+  455  cd CS131
+  456  git status
+  457  ls
+  458  git fetch origin main
+  459  git status
+  460  git pull origin main
+  461  git status
+  462  git add .
+  463  git status
+  464  ls
+  465  cd Worksheet4
+  466  ls
+  467  rm -rf CS131ClassProject2
+  468  ls
+  469  git status
+  470  git commit -m "updated"
+  471  cd
+  472  cd CS131
+  473  git status
+  474  git add Worksheet4
+  475  ls
+  476  git status
+  477  git restore Worksheet4
+  478  git status
+  479  cd Worksheet4
+  480  ls
+  481  git add .
+  482  git status
+  483  git push origin main
+  484  ls
+  485  git status
+  486  cd CS131
+  487  git status
+  488  git restore Worksheet4
+  489  git status
+  490  git restore Worksheet4 
+  491  git status
+  492  git diff
+  493  git submodule update --init --recursive 
+  494  git status
+  495  cd Worksheet4
+  496  ls
+  497  git status
+  498  git commit -m updated Submodule
+  499  git commit -m updatedSubmodule
+  500  git push origin main
+  501  cd
+  502  cd CS131
+  503  git status
+  504  git restore Worksheet4
+  505  git status
+  506  git submodule update --init --recursive
+  507  cd Assignment2
+  508  ls
+  509  cd
+  510  cd CS131
+  511  git status
+  512  cd Worksheet4
+  513  git submodule update --init --recursive
+  514  git status
+  515  cd
+  516  cd CS131
+  517  ls
+  518  cd CS131ClassProject2
+  519  ls
+  520  git status
+  521  cd
+  522  cd CS131
+  523  ls
+  524  git commit -m CommitingAssignment2
+  525  git status
+  526  git add .
+  527  git status
+  528  ls
+  529  git push origin main
+  530  ls
+  531  git pull origin main
+  532  git push origin main
+  533  git push -f origin main
+  534  git status
+  535  git commit -m Updated
+  536  git push origin main
+  537  git status
+  538  scp "/Users/ronsp24/Downloads/global_jobs_salaries_2024 2.csv" gursimransp24@172.20.25.9:
+  539  scp "/Users/ronly/Downloads/global_jobs_salaries_2024 2.csv" gursimransp24@172.20.25.9:
+  540  ls
+  541  git status
+  542  cd CS131
+  543  git status
+  544  ls
+  545  scp "/Users/ronly/Downloads/global_jobs_salaries_2024.csv" ronsp24@172.20.25.9:
+  546  cd CS131
+  547  ls
+  548  cd CS131ClassProject2
+  549  ls
+  550  cat global_jobs_salaries_2024.csv
+  551  ls
+  552  mv global_jobs_salaries_2024.csv CS131
+  553  ls
+  554  cd CS131
+  555  ls
+  556  mv global_jobs_salaries_2024.csv CS131ClassProject2
+  557  ls
+  558  cd CS131ClassProject2
+  559  ls
+  560  rm global_jobs_salaries_2024.csv.zip
+  561  ls
+  562  cd CS131
+  563  ls
+  564  cd CS131ClassProject2
+  565  ls
+  566  cat global_jobs_salaries_2024.csv
+  567  ls
+  568  awk -f ',' 'NR>1 {print $1 ',' $2 ",' $3 ",' $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  569  ls
+  570  awk -F ',' 'NR>1 {print $1 ',' $2 ",' $3 ",' $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  571  awk -f ',' 'NR>1 {print $1 ',' $2 ",' $3 ",' $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  572  awk -F ',' 'NR>1 {print $1 "," $2 "," $3 "," $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  573  ls
+  574  sort -t ',' -k1, 1 -k7, 7nr focused_salaries.csv > sorted_salaries.csv
+  575  sort -t ',' -k1, 1 -k4, 4nr focused_salaries.csv > sorted_salaries.csv
+  576  sort -t ',' -k1,1 -k4,4nr focused_salaries.csv > sorted_salaries.csv
+  577  ls
+  578  cat sorted_salaries.csv
+  579  awk -F ',' '!seen[$1]++' sorted_salaries.csv > highest_paying_salary.csv
+  580  ls
+  581  cat highest_paying_salary.csv
+  582  ls
+  583  rm sorted_salaries.csv
+  584  rm focused_salaries.csv
+  585  ls
+  586  awk -F ',' 'NR>1 {print $1 "," $2 "," $3 "," $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  587  cd CS131
+  588  ls
+  589  cd CS131ClassProject2
+  590  ls
+  591  awk -F ',' 'NR>1 {print $1 "," $2 "," $3 "," $7}' global_jobs_salaries_2024.csv > focused_salaries.csv
+  592  ls
+  593  awk -F ',' '$3 != "Health and Medical"' focused_salaries.csv > non_medical_salaries.csv
+  594  sort -t ',' -k1, 1 -k7, 7nr non_medical_salaries.csv > sorted_salaries.csv
+  595  sort -t ',' -k1,1 -k4,4nr non_medical_salaries.csv > sorted_salaries.csv
+  596  ls
+  597  ls
+  598  cat second_highest_paying_salary.csv
+  599  ls
+  600  rm non_medical_salaries.csv
+  601  rm sorted_salaries.csv
+  602  ls
+  603  awk -F ',' '$3 != "Health and Medical"' focused_salaries.csv > non_medical_salaries.csv
+  604  ls
+  605  awk -F ',' '$3 != "Legal"' non_medical_salaries.csv > non_judge_salaries.csv
+  606  ls
+  607  sort -t ',' -k1,1 -k4,4nr non_judge_salaries.csv > sorted_salaries.csv
+  608  awk -F ',' '!seen[$1]++' sorted_salaries.csv > third_highest_paying_salary.csv
+  609  ls
+  610  cat third_highest_paying_salary.csv
+  611  ls
+  612  rm non_judge_salaries.csv
+  613  rm non_medical_salaries.csv
+  614  rm sorted_salaries.csv
+  615  rm
+  616  ls
+  617  rm focused_salaries.csv
+  618  cd CS131
+  619  ls
+  620  cd CS131ClassProject2
+  621  ls
+  622  wc -l global_jobs_salaries_2024.csv
+  623  ls
+  624  cd CS131
+  625  cd CS131ClassProject2
+  626  ls
+  627  grep "Legal" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > legal_jobs.csv
+  628  ls
+  629  cat legal_jobs.csv
+  630  grep "Marketing" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > legal_jobs.csv
+  631  cat legal_jobs.csv
+  632  rm legal_jobs.csv
+  633  grep "Legal" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > legal_jobs.csv
+  634  grep "Marketing" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > marketing_jobs.csv
+  635  cat marketing_jobs.csv
+  636  grep "Counseling" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > counseling_jobs.csv
+  637  cat counseling_jobs.csv
+  638  grep "Health and Medical" global_jobs_salaries_2024.csv | awk -F ',' '{print $2}' | sort | uniq -c | wc -l > medical_jobs.csv
+  639  cat medical_jobs.csv
+  640  ls
+  641  rm marketing_jobs.csv
+  642  rm medical_jobs.csv
+  643  rm legal_jobs.csv
+  644  ls
+  645  rm counseling_jobs.csv
+  646  ls
+  647  awk -F ',' '{print $3 "," $2}' global_jobs_salaries_2024.csv | sort -u | awk -F ',' '{print $1}' | sort | uniq -c | sort -nr | head -n 1 > sorted_number_jobs.csv
+  648  cat sorted_number_jobs.csv
+  649  awk -F ',' '{print $3 "," $2}' global_jobs_salaries_2024.csv | sort -u | awk -F ',' '{print $1}' | sort | uniq -c | sort -nr | head -n 10 > sorted_number_jobs.csv
+  650  ls
+  651  cat sorted_number_jobs.csv
+  652  awk -F ',' '$3 == "Health and Medical" global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > medical_salary.csv
+  653  awk -F ',' '$3 == "Health and Medical"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > medical_sala.csv
+  654  ls
+  655  cat medical_salary.csv
+  656  awk -F ',' '$3 == "Information Technology"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > tech_jobs.csv
+  657  awk -F ',' '$3 == "Accounting and Finance"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > accounting_jobs.csv
+  658  awk -F ',' '$3 == "Teaching / Education"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > teaching.csv
+  659  awk -F ',' '$3 == "Engineering"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > engineering.csv
+  660  awk -F ',' '$3 == Executive and Management"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > executive.csv
+  661  awk -F ',' '$3 == "Executive and Managment"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > executive.csv
+  662  awk -F ',' '$3 == "Banking"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > banking.csv
+  663  awk -F ',' '$3 == "Human Resources"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > human.csv
+  664  awk -F ',' '$3 == "Science and Technical Services"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > science.csv
+  665  awk -F ',' '$3 == "Food / Hospitality / Tourism / Catering"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > food.csv
+  666  cat food.csv
+  667  ls
+  668  cat medical_salary.csv
+  669  cat tech_jobs.csv
+  670  cat accounting_jobs.csv
+  671  cat teaching.csv
+  672  cat engineering.csv
+  673  cat executive.csv
+  674  awk -F ',' '$3 == "Executive and Management"' global_jobs_salaries_2024.csv | awk -F ',' '{ sum += $7; count++ } END { if (count > 0) print "Average Salary:", sum/count; else print "No Data" }' > executive.csv
+  675  cat executive.csv
+  676  cat banking.csv
+  677  cat human.csv
+  678  cat science.csv
+  679  cat food.csv
+  680  ls
+  681  cat sorted_number_jobs.csv
+  682  awk -F ',' '$3 == "Health and Medical" { medical_count++ } { total_count++ } END { percentage = (medical_count / total_count) * 100; print "Percentage of Health and Medical Jobs:", percentage "%" }' global_jobs_salaries_2024.csv
+  683  cat global_jobs_salaries_2024.csv
+  684  awk -F ',' '$3 == "Health and Medical" { medical_count++ } { total_count++ } END { percentage = (medical_count / total_count) * 100; print "Percentage of Health and Medical Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > medical_percent.csv
+  685  cat medical_percent.csv
+  686  awk -F ',' '$3 == "Information Technology" { it_count++ } { total_count++ } END { percentage = (it_count / total_count) * 100; print "Percentage of Information Technology Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > tech_percent.csv
+  687  cat tech_percent.csv
+  688  awk -F ',' '$3 == "Accounting and Finance" { af_count++ } { total_count++ } END { percentage = (af_count / total_count) * 100; print "Percentage of Accounting and Finance Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > accounting_percent.csv
+  689  awk -F ',' '$3 == "Teaching / Education" { te_count++ } { total_count++ } END { percentage = (te_count / total_count) * 100; print "Percentage of Teaching / Education Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > teaching_percent.csv
+  690  awk -F ',' '$3 == "Engineering" { eng_count++ } { total_count++ } END { percentage = (eng_count / total_count) * 100; print "Percentage of Engineering Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > engineering_percent.csv
+  691  awk -F ',' '$3 == "Executive and Management" { exec_count++ } { total_count++ } END { percentage = (exec_count / total_count) * 100; print "Percentage of Executive and Management Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > executive_percent.csv
+  692  awk -F ',' '$3 == "Banking" { banking_count++ } { total_count++ } END { percentage = (banking_count / total_count) * 100; print "Percentage of Banking Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > banking_percent.csv
+  693  awk -F ',' '$3 == "Human Resources" { hr_count++ } { total_count++ } END { percentage = (hr_count / total_count) * 100; print "Percentage of Human Resources Jobs:", percentage "%" }' global_jobs_salaries_2024.csv > human_percent.csv
+  694  ls
+  695  rm human_percent.csv
+  696  rm medical_percent.csv
+  697  teaching_percent.csv
+  698  rm teaching_percent.csv
+  699  rm tech_percent.csv
+  700  ls
+  701  rm engineering_percent.csv
+  702  rm banking_percent.csv
+  703  ls
+  704  rm executive_percent.csv
+  705  ls
+  706  rm account_percent.csv
+  707  rm accounting_percent.csv
+  708  ls
+  709  rm science.csv
+  710  rm human.csv
+  711  rm teaching.csv
+  712  rm tech_jobs.csv
+  713  rm executive.csv
+  714  rm banking.csv
+  715  rm accounting_jobs.csv
+  716  ls
+  717  rm medical_salary.csv
+  718  rm food.csv
+  719  rm engineering.csv
+  720  ls
+  721  history > terminal_history.txt
+  722  vi terminal_history.txt
+  723  ls
+  724  cat sorted_number_jobs.csv
+  725  ls
+  726  wc -l global_jobs_salaries_2024.csv > number_of_entries.csv
+  727  cat number_of_entries.csv
+  728  head -n 1 global_jobs_salaries_2024.csv | tr','\n' > metadata.csv
+  729  ls
+  730  head -n 1 global_jobs_salaries_2024.csv > metadata.csv
+  731  cat metadata.csv
+  732  ls
+  733  cd
+  734  cd CS131
+  735  cd CS131ClassProject2
+  736  ls
+  737  cut -d ',' -f 7 global_jobs_salaries_2024.csv | sort -n | head -n 2 > lowest_salary.csv
+  738  cat lowest_salary.csv
+  739  awk -F ',' '{print $7}' global_jobs_salaries_2024.csv | sort -n -r | head -n 1 > highest_salary.csv
+  740  cat highest_salary.csv
+  741  ls
+  742  rm terminal_history.txt
+  743  history > terminal_history.txt
+  744  cd
+  745  git init
+  746  cd CS131
+  747  git status
+  748  git add .
+  749  git status
+  750  git commit -m "CS131ClassProject2 Completed"
+  751  git push origin main
+  752  git status
+  753  cd CS131
+  754  ls
+  755  cd CS131
+  756  ls
+  757  mkdir Assignment3
+  758  ls
+  759  cd Assignment3
+  760  ls
+  761  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/last.fake
+  762  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/passwd.fake
+  763  ls
+  764  cat last.fake
+  765  touch Assignment3.txt
+  766  wc -l last.fake
+  767  grep 'sp24' last.fake > lastsp24.fake
+  768  cat lastsp24.fake
+  769  ls
+  770  cat last.fake
+  771  ls
+  772  rm lastsp24.fake
+  773  grep 'sp24' last.fake > lastsp24.fake
+  774  grep -v last.fake > last.fake
+  775  cat last.fake
+  776  ls
+  777  cat last.fake
+  778  cat lastsp24.fake
+  779  ls
+  780  rm last.fake
+  781  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/last.fake
+  782  sed -i '/sp24/d' last.fake
+  783  cat last.fake
+  784  ls
+  785  vi Assignment3.txt
+  786  ls
+  787  wc -l last.fake
+  788  vi Assignment3.txt
+  789  ls
+  790  cat lastsp24.fake
+  791  grep -i 'lastsp24.fake' > users_logged_sun.fake
+  792  cat lastsp24.fake
+  793  grep 'Sun' lastsp24.fake > users_sun.fake
+  794  cat users_sun.fake
+  795  awk -F ' ' '{print $4}' users_sun.fake > users_logged_sun.fake
+  796  cat users_logged_sun.fake
+  797  ls
+  798  rm users_logged_sun.fake
+  799  awk -F ' ' '{print $1}' users_sun.fake > users_logged_sun.fake
+  800  cat users_logged_sun.fake
+  801  ls
+  802  vi Assignment3.txt
+  803  sort users_logged_sun.fake | uniq
+  804  cat users_logged_sun.fake
+  805  vi Assignment3.txt
+  806  echo "The list of people who worked on Sunday are:"
+  807  echo "The list of people who worked on Sunday are:" > list_sun.fake
+  808  cat list_sun.fake
+  809  sort users_logged_sun.fake | uniq >> list_sun.fake
+  810  echo "Kudos to these people for putting in the work" >> list_sun.fake
+  811  vi Assignment3.txt
+  812  cat list_sun.fake
+  813  vi Assignment3.txt
+  814  ls
+  815  cd CS131
+  816  ls
+  817  cd Assignment3
+  818  ls
+  819  vi Assignment3.txt
+  820  cd CS131
+  821  ls
+  822  cd Assignment3
+  823  ls
+  824  cat list_sun.fake
+  825  ls
+  826  cat users_sun.fake
+  827  ls
+  828  rm users_sun.fake
+  829  ls
+  830  cat users_logged_sun.fake
+  831  ls
+  832  rm users_logged_sun.fake
+  833  ls
+  834  cat list_sun.fake
+  835  cat lastsp24.fake
+  836  ls
+  837  awk '{print $7}' lastsp24.fake | sort | awk '/(23:|00|01|02|03|04:)/' | uniq > night.fake
+  838  cat night.fake
+  839  ls
+  840  rm night.fake
+  841  awk '{print $7}' lastsp24.fake | sort | awk '/(23:|00|01|02|03|04:)[0-5][0-9]/' | uniq > night.fake
+  842  cat night.fake
+  843  ls
+  844  cat lastsp24.fake
+  845  ls
+  846  rm night.fake
+  847  awk '{print $7}' lastsp24.fake | sort | awk '/(23|00|01|02|03|04:)[0-5][0-9]/' | uniq > night.fake
+  848  cat night.fake
+  849  ls
+  850  rm night.fake
+  851  awk '$7 ~ /^(23|00|01|02|03|04):/' lastsp24.fake > night.fake
+  852  cat night.fake
+  853  rm night.fake
+  854  ls
+  855  awk '$7 ~ /^(23|00|01|02|03|04:00):/' lastsp24.fake > night.fake
+  856  cat night.fake
+  857  ls
+  858  cat Assignment3.txt
+  859  sort night.fake | uniq > list_night.fake
+  860  cat list_night.fake
+  861  ls
+  862  rm list_night.fake
+  863  ls
+  864  cat night.fake
+  865  awk night.fake '{print$1}' | sort | uniq > list_night.fake
+  866  awk '{print $1, $7}' night.fake | sort | uniq > list_night.fake
+  867  cat list_night.fake
+  868  ls
+  869  rm list_night.fake
+  870  awk '{print $1, $7}' night.fake > sorted_night.fake
+  871  cat sorted_night.fake
+  872  awk '!seen[$1]++' sorted_night.fake > list_night.fake
+  873  cat list_night.fake
+  874  ls
+  875  rm sorted_night.fake
+  876  rm night.fake
+  877  ls
+  878  vi Assignment3.txt
+  879  ls
+  880  cd CS13
+  881  cd CS131
+  882  ls
+  883  cd Assignment3
+  884  ls
+  885  vi Assignment3.txt
+  886  ls
+  887  cat Assignment3.txt
+  888  ls
+  889  awk '$7 ~ /^(23|00|01|02|03|04:00):/' lastsp24.fake > night.fake
+  890  ls
+  891  awk '{print $1, $7}' night.fake > sorted_night.fake
+  892  ls
+  893  rm list_night.fake
+  894  sort -k1,1 sorted_night.fake | uniq -f1 > list_night.fake
+  895  cat list_night.fake
+  896  rm list_night.fake
+  897  ls
+  898  uniq -f1 sorted_night.fake > list_night.fake
+  899  cat list_night.fake
+  900  ls
+  901  rm list_night.fake
+  902  cat Assignment3.txt
+  903  awk '!seen[$1]++' sorted_night.fake > list_night.fake
+  904  cat list_night.fake
+  905  ls
+  906  rm list_night.fake
+  907  ls
+  908  rm sorted_night.fake
+  909  ls
+  910  awk '{print $1}' night.fake > sorted_night.fake
+  911  ls
+  912  cat Assignment3.txt
+  913  echo "Night Owls List:" > list_night.fake
+  914  ls
+  915  cat sorted_night.fake
+  916  sort sorted_night.fake | uniq >> list_night.fake
+  917  cat list_night.fake
+  918  echo "Night Owls are dope. Please ensure you get enough sleep though." >> list_night.fake
+  919  ls
+  920  cat list_night.fake
+  921  vi Assignment3.txt
+  922  ls
+  923  vi Assignment3.txt
+  924  ls
+  925  rm sorted_night.fake
+  926  ls
+  927  cat list_night.fake
+  928  vi Assignment3.txt
+  929  cd CS131
+  930  ls
+  931  cd Assignment3
+  932  ls
+  933  cat Assignment3.txt
+  934  wq
+  935  awk '$7 ~ /^(05|06|07|08|09:00):/' lastsp24.fake > early.fake
+  936  awk '{print $1}' early.fake > sorted_early.fake
+  937  echo "Early Birds List:" > list_early.fake
+  938  sort sorted_early.fake | uniq >> list_early.fake
+  939  echo "Early Birds are dope. Pleasure ensure you get enough sleep though." >> list_early.fake
+  940  cat list_early.fake
+  941  ls
+  942  cat lastsp24.fake
+  943  awk '$1 ~ /^t/' lastsp24.fake > list_t.fake
+  944  cat list_t.fake
+  945  cat Assignment3.txt
+  946  ls
+  947  awk '{print $1}' list _t.fake > sorted_t.fake
+  948  ls
+  949  rm sorted_t.fake
+  950  awk '{print $1}' list_t.fake > sorted_t.fake
+  951  sort sorted_t.fake | uniq >> list_t_username.fake
+  952  cat list_t_username.fake
+  953  rm list_t_username.fake
+  954  echo "Usernames that start with "t":" > list_t_username.fake
+  955  sort sorted_t.fake | uniq >> list_t_username.fake
+  956  cat list_t_username.fake
+  957  ls
+  958  rm sorted_t.fake
+  959  rm list_t.fake
+  960  ls
+  961  rm sorted_early.fake
+  962  rm night.fake
+  963  rm sorted_night.fake
+  964  rm early.fake
+  965  rm sorted_early.fake
+  966  ls
+  967  cat passwd.fake
+  968  cd CS131
+  969  cd Assignment3
+  970  vi Assignment3.txt
+  971  cd CS131
+  972  cd Assignment3
+  973  cat passwd.fa
+  974  ls
+  975  awk -F: '$1 ~ /^a/ && $3 % 2 == 0' passwd.fake > list_passwd_a.fake
+  976  cat list_passwd_a.fake
+  977  sed 's/[a-zA-Z0-9[:space:]]//g' passwd.fake | sort -u > distinct_passwd.fake
+  978  cat distinct_passwd.fake
+  979  ls
+  980  cat Assignment3.txt
+  981  cd
+  982  cd CS131
+  983  ls
+  984  git init
+  985  git status
+  986  cd Assignment3
+  987  git status
+  988  ls
+  989  git status
+  990  cd
+  991  cd CS131
+  992  git status
+  993  git add .
+  994  git status
+  995  git commit -m "Assignment 3"
+  996  git push origin main
+  997  ls
+  998  cd CS131
+  999  ls
+ 1000  mkdir Worksheet5
+ 1001  cd Worksheet5
+ 1002  ls
+ 1003  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+ 1004  ls
+ 1005  for category in "${categories[@]}"; do awk -F ',' -v category="$category" '$1 == "United States" && $2 == category {print}' Global YouTube Statistics.csv > "Worksheet5_UnitedStates_Music.txt
+done
+ 1006  nano worksheet5_data.sh
+ 1007  ls
+ 1008  bash worksheet5_data.sh
+ 1009  nano worksheet5_data.sh
+ 1010  ls
+ 1011  cat Global YouTube Statistics.csv
+ 1012  ls
+ 1013  cat Global YouTube Statistics.csv
+ 1014  ls
+ 1015  cat 'Global YouTube Statistics.csv'
+ 1016  ls
+ 1017  nano worksheet5_data.sh
+ 1018  bash worksheet5_data.sh
+ 1019  ls
+ 1020  cat Worksheet5_US_Music.txt
+ 1021  rm Worksheet5_US_Music.txt
+ 1022  ls
+ 1023  nano worksheet5_data.sh
+ 1024  la
+ 1025  ls
+ 1026  awk -F ',' '{print $6, $9}' 'Global YouTube Statistics.csv' > Youtubers.csv
+ 1027  ls
+ 1028  cat Youtubers.csv
+ 1029  ls
+ 1030  rm Youtubers.csv
+ 1031  awk -F ',' '{print $5, $8}' 'Global YouTube Statistics.csv' > Youtubers.csv
+ 1032  ls
+ 1033  nano worksheet5_data.sh
+ 1034  ls
+ 1035  bash worksheet5_data.sh
+ 1036  ls
+ 1037  cat Worksheet5_US_Music.txt
+ 1038  ls
+ 1039  nano worksheet5_data.sh
+ 1040  ls
+ 1041  rm Worksheet5_US_Music.txt
+ 1042  bash worksheet5_data.sh
+ 1043  ls
+ 1044  cat Worksheet5_US_Comedy.txt
+ 1045  ls
+ 1046  rm Youtubers.csv
+ 1047  ls
+ 1048  touch ws5.txt
+ 1049  ls
+ 1050  wc Worksheet5_US_Music.txt >> ws5.txt
+ 1051  wc Worksheet5_US_Entertainment.txt >> ws5.txt
+ 1052  wc Worksheet5_US_Gaming.txt >> ws5.txt
+ 1053  wc Worksheet5_US_Comedy.txt >> ws5.txt
+ 1054  vi ws5.txt
+ 1055  ls
+ 1056  cd
+ 1057  cd CS131
+ 1058  git init
+ 1059  git status
+ 1060  git add .
+ 1061  git status
+ 1062  ls
+ 1063  cd Worksheet5
+ 1064  touch script.sh
+ 1065  l
+ 1066  ls
+ 1067  nano worksheet5_data.sh
+ 1068  vi script.sh
+ 1069  ls
+ 1070  cd
+ 1071  cd CS131
+ 1072  git add .
+ 1073  git status
+ 1074  cd Worksheet5
+ 1075  ls
+ 1076  history > cmds.log
+ 1077  vi cmds.log
+ 1078  cd
+ 1079  cd CS131
+ 1080  git add .
+ 1081  git status
+ 1082  git commit -m "Worksheet 5 Reupload"
+ 1083  git push origin main
+
+
+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+                                                                        //Worksheet 4 reupload begins 1085+
+
+ 1084  ls
+ 1085  mkdir Worksheet4Reupload
+ 1086  cp Worksheet4 Worksheet4Reupload
+ 1087  ls
+ 1088  cd Worksheet4Reupload
+ 1089  ls
+ 1090  cd
+ 1091  cd CS131
+ 1092  cp -r Worksheet4 Worksheet4Reupload
+ 1093  ls
+ 1094  cd Worksheet4Reupload
+ 1095  ls
+ 1096  cd
+ 1097  cd CS131
+ 1098  rm -rf Worksheet4Reupload
+ 1099  ls
+ 1100  cd Worksheet4
+ 1101  ls
+ 1102  cd
+ 1103  mkdir Worksheet4Reuploaded
+ 1104  cp Worksheet4/greetings.txt Worksheet4Reuploaded
+ 1105  cp Worksheet4/greetings.txt Worksheet4Reuploaded/
+ 1106  cp greetings.txt Worksheet4Reuploaded
+ 1107  cd Worksheet4
+ 1108  cd CS131
+ 1109  ls
+ 1110  cp greetings.txt Worksheet4Reuploaded
+ 1111  cp Worksheet4/greetings.txt Worksheet4Reuploaded/
+ 1112  cd Worksheet4
+ 1113  cp greetings.txt Worksheet4Reuploaded
+ 1114  ls
+ 1115  rm Worksheet4Reuploaded
+ 1116  ls
+ 1117  mv 'Global YouTube Statistics.csv' Worksheet4Reuploaded
+ 1118  ls
+ 1119  mv Worksheet4Reuploaded > 'Global YouTube Statistics.csv'
+ 1120  ls
+ 1121  rm Worksheet4Reuploaded
+ 1122  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+ 1123  ls
+ 1124  rm 'Global YouTube Statistics.csv.1'
+ 1125  ls
+ 1126  cd
+ 1127  cd CS131
+ 1128  git submodule deinit -f Worksheet4
+ 1129  git rm --cached Worksheet4
+ 1130  rm -rf .git/Worksheet4
+ 1131  rm -rf Worksheet4
+ 1132  l
+ 1133  ls
+ 1134  git status
+ 1135  git commit -m "Updated Worksheets"
+ 1136  git push origin main
+ 1137  ls
+ 1138  mkdir Worksheet4
+ 1139  ls
+ 1140  cd Worksheet4
+ 1141  wget https://raw.githubusercontent.com/jyotikahp/DemoRepoForCS131/main/Global%20YouTube%20Statistics.csv
+ 1142  `~/.bashrc`
+ 1143  nano ~/.bashrc
+ 1144  script ws4.txt
+ 1145  ls
+ 1146  vi ws4.txt
+ 1147  ls
+ 1148  history > cmds.log
